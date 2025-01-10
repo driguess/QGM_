@@ -21,11 +21,11 @@
             border-radius: 5px;
         }
         .info h2 {
-            margin: 0 0 14px;
+            margin: 0 0 18px;
         }
         .leaflet-container {
             background: #fff;
-            padding-right: 14px;
+            padding-right: 18px;
         }
         .leaflet-popup-scrolled {
             border-bottom: unset!important;
